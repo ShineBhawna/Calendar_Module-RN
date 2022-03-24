@@ -2,7 +2,12 @@
 This repository is about Calendar custom module in react-native.
 
 ### Screenshot 
+<div align="center">
+  <img src="Images/1.png" width="250">
+  </div>
 
-<img src = "Images/1.png" width="750">
 
-<img src = "Images/2.png" width="750">
+
+<div align="center">
+  <img src="Images/2.png" width="650">
+  </div>
